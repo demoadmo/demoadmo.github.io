@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Latest News</title>
-</head>
 <body>
 	<header>
 		<div class="logo">
